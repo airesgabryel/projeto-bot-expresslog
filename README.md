@@ -29,6 +29,8 @@ O bot atua como um especialista em logística da distribuidora fictícia **Expre
 
 ---
 
+https://youtu.be/QDpbnW9yeRI
+
 ## 🚀 Passo a Passo: Como Executar o Projeto
 
 Como o projeto foi otimizado para rodar no **Google Colab**, você não precisa instalar o Python ou configurar ambientes virtuais na sua máquina local. Siga os passos abaixo:
